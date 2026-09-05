@@ -58,23 +58,23 @@ Assembly Project/
 ### 🖥️ Program in Action
 The main menu where users select items and enter quantities.
 
-![Program Screenshot](Screenshots/Program.png)
+![Program Screenshot](Assembly%20Project/Screenshots/Program.png)
 
 ### 💻 Source Code
 A preview of the assembly source code inside the emu8086 editor.
 
-![Code Screenshot](Screenshots/Code.png)
+![Code Screenshot](Assembly%20Project/Screenshots/Code.png)
 
 ### 🧾 Final Bill / Exit Message
 The itemized bill and thank-you message shown at checkout.
 
-![End Message Screenshot](Screenshots/End%20Message.png)
+![End Message Screenshot](Assembly%20Project/Screenshots/End%20Message.png)
 
 ---
 
 ## 📄 License
 
-This project is licensed under the terms of the [LICENSE](./LICENSE) file included in this repository.
+This project is licensed under the terms of the MIT License file included in this repository.
 
 ---
 
