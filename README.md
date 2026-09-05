@@ -55,8 +55,8 @@ Assembly Project/
 
 ## 📸 Screenshots
 
-### 🖥️ Program in Action
-The main menu where users select items and enter quantities.
+### 🖥️ Program in Action / Final Bill 
+The main menu where users select items and enter quantities. Also, itemized bill and thank-you
 
 ![Program Screenshot](Assembly%20Project/Screenshots/Program.png)
 
@@ -65,8 +65,8 @@ A preview of the assembly source code inside the emu8086 editor.
 
 ![Code Screenshot](Assembly%20Project/Screenshots/Code.png)
 
-### 🧾 Final Bill / Exit Message
-The itemized bill and thank-you message shown at checkout.
+### 🧾  Exit Message
+The message shown after checkout.
 
 ![End Message Screenshot](Assembly%20Project/Screenshots/End%20Message.png)
 
